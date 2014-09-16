@@ -1,0 +1,600 @@
+in0 : 0 0.000000 
+in1 : 0 0.000000 
+CPU result : 0 0.000000 
+GPU result : 0 0.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 1 1.000000 
+in1 : 2 2.000000 
+CPU result : 3 -0.350175 
+GPU result : 3 -0.350180 
+[NG] 
+
+in0 : 2 2.000000 
+in1 : 4 4.000000 
+CPU result : 6 -0.594356 
+GPU result : 6 -0.594369 
+[NG] 
+
+in0 : 3 3.000000 
+in1 : 6 6.000000 
+CPU result : 9 0.135499 
+GPU result : 9 0.135501 
+[NG] 
+
+in0 : 4 4.000000 
+in1 : 8 8.000000 
+CPU result : 12 0.110115 
+GPU result : 12 0.110122 
+[NG] 
+
+in0 : 5 5.000000 
+in1 : 10 10.000000 
+CPU result : 15 0.804606 
+GPU result : 15 0.804632 
+[NG] 
+
+in0 : 6 6.000000 
+in1 : 12 12.000000 
+CPU result : 18 -0.235786 
+GPU result : 18 -0.235787 
+[NG] 
+
+in0 : 7 7.000000 
+in1 : 14 14.000000 
+CPU result : 21 0.089835 
+GPU result : 21 0.089842 
+[NG] 
+
+in0 : 8 8.000000 
+in1 : 16 16.000000 
+CPU result : 24 -0.947468 
+GPU result : 24 -0.947511 
+[NG] 
+
+in0 : 9 9.000000 
+in1 : 18 18.000000 
+CPU result : 27 0.272129 
+GPU result : 27 0.272130 
+[NG] 
+
+in0 : 10 10.000000 
+in1 : 20 20.000000 
+CPU result : 10 90010.000000 
+GPU result : 10 90010.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 11 11.000000 
+in1 : 22 22.000000 
+CPU result : 11 90011.000000 
+GPU result : 11 90011.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 12 12.000000 
+in1 : 24 24.000000 
+CPU result : 12 90012.000000 
+GPU result : 12 90012.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 13 13.000000 
+in1 : 26 26.000000 
+CPU result : 13 90013.000000 
+GPU result : 13 90013.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 14 14.000000 
+in1 : 28 28.000000 
+CPU result : 14 90014.000000 
+GPU result : 14 90014.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 15 15.000000 
+in1 : 30 30.000000 
+CPU result : 15 90015.000000 
+GPU result : 15 90015.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 16 16.000000 
+in1 : 32 32.000000 
+CPU result : 16 90016.000000 
+GPU result : 16 90016.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 17 17.000000 
+in1 : 34 34.000000 
+CPU result : 17 90017.000000 
+GPU result : 17 90017.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 18 18.000000 
+in1 : 36 36.000000 
+CPU result : 18 90018.000000 
+GPU result : 18 90018.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 19 19.000000 
+in1 : 38 38.000000 
+CPU result : 19 90019.000000 
+GPU result : 19 90019.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 20 20.000000 
+in1 : 40 40.000000 
+CPU result : 20 90020.000000 
+GPU result : 20 90020.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 21 21.000000 
+in1 : 42 42.000000 
+CPU result : 21 90021.000000 
+GPU result : 21 90021.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 22 22.000000 
+in1 : 44 44.000000 
+CPU result : 22 90022.000000 
+GPU result : 22 90022.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 23 23.000000 
+in1 : 46 46.000000 
+CPU result : 23 90023.000000 
+GPU result : 23 90023.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 24 24.000000 
+in1 : 48 48.000000 
+CPU result : 24 90024.000000 
+GPU result : 24 90024.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 25 25.000000 
+in1 : 50 50.000000 
+CPU result : 25 90025.000000 
+GPU result : 25 90025.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 26 26.000000 
+in1 : 52 52.000000 
+CPU result : 26 90026.000000 
+GPU result : 26 90026.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 27 27.000000 
+in1 : 54 54.000000 
+CPU result : 27 90027.000000 
+GPU result : 27 90027.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 28 28.000000 
+in1 : 56 56.000000 
+CPU result : 28 90028.000000 
+GPU result : 28 90028.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 29 29.000000 
+in1 : 58 58.000000 
+CPU result : 29 90029.000000 
+GPU result : 29 90029.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 30 30.000000 
+in1 : 60 60.000000 
+CPU result : 30 90030.000000 
+GPU result : 30 90030.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 31 31.000000 
+in1 : 62 62.000000 
+CPU result : 31 90031.000000 
+GPU result : 31 90031.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 32 32.000000 
+in1 : 64 64.000000 
+CPU result : 32 90032.000000 
+GPU result : 32 90032.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 33 33.000000 
+in1 : 66 66.000000 
+CPU result : 33 90033.000000 
+GPU result : 33 90033.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 34 34.000000 
+in1 : 68 68.000000 
+CPU result : 34 90034.000000 
+GPU result : 34 90034.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 35 35.000000 
+in1 : 70 70.000000 
+CPU result : 35 90035.000000 
+GPU result : 35 90035.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 36 36.000000 
+in1 : 72 72.000000 
+CPU result : 36 90036.000000 
+GPU result : 36 90036.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 37 37.000000 
+in1 : 74 74.000000 
+CPU result : 37 90037.000000 
+GPU result : 37 90037.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 38 38.000000 
+in1 : 76 76.000000 
+CPU result : 38 90038.000000 
+GPU result : 38 90038.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 39 39.000000 
+in1 : 78 78.000000 
+CPU result : 39 90039.000000 
+GPU result : 39 90039.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 40 40.000000 
+in1 : 80 80.000000 
+CPU result : 40 90040.000000 
+GPU result : 40 90040.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 41 41.000000 
+in1 : 82 82.000000 
+CPU result : 41 90041.000000 
+GPU result : 41 90041.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 42 42.000000 
+in1 : 84 84.000000 
+CPU result : 42 90042.000000 
+GPU result : 42 90042.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 43 43.000000 
+in1 : 86 86.000000 
+CPU result : 43 90043.000000 
+GPU result : 43 90043.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 44 44.000000 
+in1 : 88 88.000000 
+CPU result : 44 90044.000000 
+GPU result : 44 90044.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 45 45.000000 
+in1 : 90 90.000000 
+CPU result : 45 90045.000000 
+GPU result : 45 90045.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 46 46.000000 
+in1 : 92 92.000000 
+CPU result : 46 90046.000000 
+GPU result : 46 90046.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 47 47.000000 
+in1 : 94 94.000000 
+CPU result : 47 90047.000000 
+GPU result : 47 90047.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 48 48.000000 
+in1 : 96 96.000000 
+CPU result : 48 90048.000000 
+GPU result : 48 90048.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 49 49.000000 
+in1 : 98 98.000000 
+CPU result : 49 90049.000000 
+GPU result : 49 90049.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 50 50.000000 
+in1 : 100 100.000000 
+CPU result : 50 90050.000000 
+GPU result : 50 90050.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 51 51.000000 
+in1 : 102 102.000000 
+CPU result : 51 90051.000000 
+GPU result : 51 90051.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 52 52.000000 
+in1 : 104 104.000000 
+CPU result : 52 90052.000000 
+GPU result : 52 90052.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 53 53.000000 
+in1 : 106 106.000000 
+CPU result : 53 90053.000000 
+GPU result : 53 90053.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 54 54.000000 
+in1 : 108 108.000000 
+CPU result : 54 90054.000000 
+GPU result : 54 90054.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 55 55.000000 
+in1 : 110 110.000000 
+CPU result : 55 90055.000000 
+GPU result : 55 90055.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 56 56.000000 
+in1 : 112 112.000000 
+CPU result : 56 90056.000000 
+GPU result : 56 90056.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 57 57.000000 
+in1 : 114 114.000000 
+CPU result : 57 90057.000000 
+GPU result : 57 90057.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 58 58.000000 
+in1 : 116 116.000000 
+CPU result : 58 90058.000000 
+GPU result : 58 90058.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 59 59.000000 
+in1 : 118 118.000000 
+CPU result : 59 90059.000000 
+GPU result : 59 90059.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 60 60.000000 
+in1 : 120 120.000000 
+CPU result : 60 90060.000000 
+GPU result : 60 90060.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 61 61.000000 
+in1 : 122 122.000000 
+CPU result : 61 90061.000000 
+GPU result : 61 90061.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 62 62.000000 
+in1 : 124 124.000000 
+CPU result : 62 90062.000000 
+GPU result : 62 90062.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 63 63.000000 
+in1 : 126 126.000000 
+CPU result : 63 90063.000000 
+GPU result : 63 90063.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 64 64.000000 
+in1 : 128 128.000000 
+CPU result : 64 90064.000000 
+GPU result : 64 90064.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 65 65.000000 
+in1 : 130 130.000000 
+CPU result : 65 90065.000000 
+GPU result : 65 90065.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 66 66.000000 
+in1 : 132 132.000000 
+CPU result : 66 90066.000000 
+GPU result : 66 90066.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 67 67.000000 
+in1 : 134 134.000000 
+CPU result : 67 90067.000000 
+GPU result : 67 90067.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 68 68.000000 
+in1 : 136 136.000000 
+CPU result : 68 90068.000000 
+GPU result : 68 90068.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 69 69.000000 
+in1 : 138 138.000000 
+CPU result : 69 90069.000000 
+GPU result : 69 90069.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 70 70.000000 
+in1 : 140 140.000000 
+CPU result : 70 90070.000000 
+GPU result : 70 90070.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 71 71.000000 
+in1 : 142 142.000000 
+CPU result : 71 90071.000000 
+GPU result : 71 90071.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 72 72.000000 
+in1 : 144 144.000000 
+CPU result : 72 90072.000000 
+GPU result : 72 90072.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 73 73.000000 
+in1 : 146 146.000000 
+CPU result : 73 90073.000000 
+GPU result : 73 90073.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 74 74.000000 
+in1 : 148 148.000000 
+CPU result : 74 90074.000000 
+GPU result : 74 90074.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 75 75.000000 
+in1 : 150 150.000000 
+CPU result : 75 90075.000000 
+GPU result : 75 90075.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 76 76.000000 
+in1 : 152 152.000000 
+CPU result : 76 90076.000000 
+GPU result : 76 90076.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 77 77.000000 
+in1 : 154 154.000000 
+CPU result : 77 90077.000000 
+GPU result : 77 90077.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 78 78.000000 
+in1 : 156 156.000000 
+CPU result : 78 90078.000000 
+GPU result : 78 90078.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 79 79.000000 
+in1 : 158 158.000000 
+CPU result : 79 90079.000000 
+GPU result : 79 90079.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 80 80.000000 
+in1 : 160 160.000000 
+CPU result : 80 90080.000000 
+GPU result : 80 90080.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 81 81.000000 
+in1 : 162 162.000000 
+CPU result : 81 90081.000000 
+GPU result : 81 90081.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 82 82.000000 
+in1 : 164 164.000000 
+CPU result : 82 90082.000000 
+GPU result : 82 90082.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 83 83.000000 
+in1 : 166 166.000000 
+CPU result : 83 90083.000000 
+GPU result : 83 90083.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 84 84.000000 
+in1 : 168 168.000000 
+CPU result : 84 90084.000000 
+GPU result : 84 90084.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 85 85.000000 
+in1 : 170 170.000000 
+CPU result : 85 90085.000000 
+GPU result : 85 90085.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 86 86.000000 
+in1 : 172 172.000000 
+CPU result : 86 90086.000000 
+GPU result : 86 90086.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 87 87.000000 
+in1 : 174 174.000000 
+CPU result : 87 90087.000000 
+GPU result : 87 90087.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 88 88.000000 
+in1 : 176 176.000000 
+CPU result : 88 90088.000000 
+GPU result : 88 90088.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 89 89.000000 
+in1 : 178 178.000000 
+CPU result : 89 90089.000000 
+GPU result : 89 90089.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 90 90.000000 
+in1 : 180 180.000000 
+CPU result : 90 90090.000000 
+GPU result : 90 90090.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 91 91.000000 
+in1 : 182 182.000000 
+CPU result : 91 90091.000000 
+GPU result : 91 90091.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 92 92.000000 
+in1 : 184 184.000000 
+CPU result : 92 90092.000000 
+GPU result : 92 90092.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 93 93.000000 
+in1 : 186 186.000000 
+CPU result : 93 90093.000000 
+GPU result : 93 90093.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 94 94.000000 
+in1 : 188 188.000000 
+CPU result : 94 90094.000000 
+GPU result : 94 90094.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 95 95.000000 
+in1 : 190 190.000000 
+CPU result : 95 90095.000000 
+GPU result : 95 90095.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 96 96.000000 
+in1 : 192 192.000000 
+CPU result : 96 90096.000000 
+GPU result : 96 90096.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 97 97.000000 
+in1 : 194 194.000000 
+CPU result : 97 90097.000000 
+GPU result : 97 90097.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 98 98.000000 
+in1 : 196 196.000000 
+CPU result : 98 90098.000000 
+GPU result : 98 90098.000000 
+[OK] CPU result and GPU result is the same 
+
+in0 : 99 99.000000 
+in1 : 198 198.000000 
+CPU result : 99 90099.000000 
+GPU result : 99 90099.000000 
+[OK] CPU result and GPU result is the same 
+
