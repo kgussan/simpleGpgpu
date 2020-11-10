@@ -2,8 +2,10 @@
 #include <stdint.h>
 #include <vector>
 #include <d3d11.h>
-#include <d3dx11.h>
+#include<DirectXMath.h>
 #include <d3dcompiler.h>
+
+#pragma comment(lib,"d3dcompiler.lib")
 
 // simpleBuffer 構造体
 // CPUとGPUで同じフォーマット。好きな仕事をやらせるにはここを拡張してGPUに渡せばOK。
@@ -206,17 +208,15 @@ void Exec(void *)
 		ID3DBlob *pErrorBlob	= NULL;
 		ID3DBlob *pBlob			= NULL;
 		//ディレクトリ基点はproject ファイルパス
-		HRESULT hr = D3DX11CompileFromFileA(	"simpleGpgpu.hlsl", 
-												NULL, 
-												NULL, 
+		HRESULT hr = D3DCompileFromFile(L"simpleGpgpu.hlsl", 
+												nullptr, 
+												nullptr,
 												"main",
 												"cs_5_0",
 												NULL,
 												NULL, 
-												NULL, 
 												&pBlob, 
-												&pErrorBlob, 
-												NULL );
+												&pErrorBlob);
 
 		if(hr != S_OK){//error check
 			exit(1);
@@ -360,7 +360,7 @@ void Exec(void *)
 			fprintf( fp, "CPU result : %d %f \n", resultI, resultF );
 			fprintf( fp, "GPU result : %d %f \n", p[i].i, p[i].f );
 			if( resultI==p[i].i && resultF==p[i].f ){
-				fprintf( fp, "[OK] CPU result and GPU result is the same \n" );
+				fprintf( fp, "[OK] CPU result and GPU result are the same \n" );
 			}else{
 				fprintf( fp, "[NG] \n" );
 			}
